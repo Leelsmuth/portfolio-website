@@ -15,8 +15,9 @@ function App() {
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="Oluwafemi Anjorin">
         <Navigation>
+                <Link to="/">Home</Link>
                 <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
