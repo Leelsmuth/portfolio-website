@@ -17,18 +17,23 @@ function Landing() {
             <div className='social-links'>
 
               {/* Linkedin */}
-              <a href="http://gogle.com" rel='noopener noreferrer' target= '_blank'>
+              <a href="https://www.linkedin.com/in/oluwafemi-anjorin/" rel='noopener noreferrer' target= '_blank'>
               <i className='fa fa-linkedin-square' aria-hidden='true' />
               </a>
 
               {/* Github */}
-              <a href="http://gogle.com" rel='noopener noreferrer' target= '_blank'>
+              <a href="https://github.com/Leelsmuth" rel='noopener noreferrer' target= '_blank'>
               <i className='fa fa-github-square' aria-hidden='true' />
               </a>
 
               {/* Twitter */}
-              <a href="http://gogle.com" rel='noopener noreferrer' target= '_blank'>
+              <a href="https://twitter.com/femianjorin11" rel='noopener noreferrer' target= '_blank'>
               <i className='fa fa-twitter-square' aria-hidden='true' />
+              </a>
+
+               {/* Email */}
+               <a href="mailto:femianjorin@rocketmail.com" rel='noopener noreferrer' target= '_blank'>
+              <i className='fa fa-envelope-square' aria-hidden='true' />
               </a>
 
             </div>

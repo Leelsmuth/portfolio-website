@@ -8,9 +8,8 @@ function App() {
   return (
   <div className='demo-big-content'>
     <Layout /*style={{background: 'url(http://www.getmdl.io/assets/demos/transparent.jpg) center / cover'}}*/>
-        <Header className='header-color' transparent title="Title" style={{color: 'white'}} scroll>
+        <Header className='header-color' transparent title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">MyPortfolio</Link>} style={{color: 'white'}} scroll>
             <Navigation>
-                <Link to="/resume">Resume</Link>
                 <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
@@ -18,7 +17,6 @@ function App() {
         </Header>
         <Drawer title="Title">
         <Navigation>
-                <Link to="/resume">Resume</Link>
                 <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
