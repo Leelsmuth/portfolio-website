@@ -81,6 +81,12 @@
     padding-top: 5em;
   }
 
+  .banner-text h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+  }
+
   .social-links {
     display: flex;
     justify-content: center;
@@ -90,7 +96,7 @@
 
   .social-links i {
     color: white;
-    font-size: 5em;
+    font-size: 4em;
     padding: 4px;
   }
 
