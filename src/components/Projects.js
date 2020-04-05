@@ -67,14 +67,14 @@ class Project extends Component {
 
         {/*Project 1 */}
         <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-          <CardTitle style={{ color: 'black', height: '176px', background: 'url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/28380357/original/de2d5a89046e990809433c81c32c7505699c07f6/fix-html-css-and-bootstrap-errors-for-you.jpg) center / cover' }}>HTML/CSS Project #1</CardTitle>
+          <CardTitle style={{ color: 'black', height: '176px', background: 'url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/28380357/original/de2d5a89046e990809433c81c32c7505699c07f6/fix-html-css-and-bootstrap-errors-for-you.jpg) center / cover' }}>Github Finder</CardTitle>
           <CardText>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Mauris sagittis pellentesque lacus eleifend lacinia...
         </CardText>
           <CardActions border style={{ textAlign: 'center' }}>
-            <Button colored href="http://github.com/leelsmuth" target='_blank'>Github</Button>
-            <Button colored href="#" target='_blank'>LiveDemo</Button>
+            <Button colored href="https://github.com/Leelsmuth/github-finder" target='_blank'>Github</Button>
+            <Button colored href="https://github-finder-eta-eosin.now.sh/" target='_blank'>LiveDemo</Button>
           </CardActions>
           <CardMenu style={{ color: '#fff' }}>
             <IconButton name="share" />
@@ -83,14 +83,14 @@ class Project extends Component {
 
         {/*Project 2 */}
         <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-          <CardTitle style={{ color: 'black', height: '176px', background: 'url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/28380357/original/de2d5a89046e990809433c81c32c7505699c07f6/fix-html-css-and-bootstrap-errors-for-you.jpg) center / cover' }}>HTML/CSS Project #2</CardTitle>
+          <CardTitle style={{ color: 'black', height: '176px', background: 'url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/28380357/original/de2d5a89046e990809433c81c32c7505699c07f6/fix-html-css-and-bootstrap-errors-for-you.jpg) center / cover' }}>Dark Mode</CardTitle>
           <CardText>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Mauris sagittis pellentesque lacus eleifend lacinia...
         </CardText>
           <CardActions border style={{ textAlign: 'center' }}>
-            <Button colored href="#" target='_blank'>Github</Button>
-            <Button colored href="#" target='_blank'>LiveDemo</Button>
+            <Button colored href="https://github.com/Leelsmuth/dark-mode" target='_blank'>Github</Button>
+            <Button colored href="https://dark-mode-five-mu.now.sh/" target='_blank'>LiveDemo</Button>
           </CardActions>
           <CardMenu style={{ color: '#fff' }}>
             <IconButton name="share" />
