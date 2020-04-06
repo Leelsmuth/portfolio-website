@@ -254,11 +254,15 @@ p{
     padding: 4px;
   }
 
-    /* .projects-grid {
+    .projects-grid {
       display: flex;
       flex-direction: column;
       margin: auto;
-      height: '3px';
-    } */
+      height: 30px;
+      
+    }
 
+  .mdl-card {
+    width: 300px;
+  }
 }
