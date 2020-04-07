@@ -265,6 +265,7 @@ p{
       display: flex;
       flex-direction: column;
       margin: auto;
+      height: 300px;
     }
 
   .mdl-shadow--16dp {
