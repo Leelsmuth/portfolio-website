@@ -23,8 +23,8 @@ class Project extends Component {
               React Project to search github Users, check their details and their latest projects
             </CardText>
             <CardActions style={{ textAlign: 'center', padding: '16px', background: 'rgba(0,0,0,0.2)' }}>
-              <Button colored href="https://github.com/Leelsmuth/github-finder" target='_blank'>Github</Button>
-              <Button colored href="https://github-finder-eta-eosin.now.sh/" target='_blank'>LiveDemo</Button>
+              <Button colored href="https://github.com/Leelsmuth/github-finder" target='_blank' style={{ fontWeight: 'bold' }}>Github</Button>
+              <Button colored href="https://github-finder-eta-eosin.now.sh/" target='_blank' style={{ fontWeight: 'bold' }}>LiveDemo</Button>
             </CardActions>
           </Card>
 
@@ -35,8 +35,8 @@ class Project extends Component {
               Simple React Project using Context API and custom hooks to manipulate the DOM.
             </CardText>
             <CardActions style={{ textAlign: 'center', padding: '16px', background: 'rgba(0,0,0,0.2)' }}>
-              <Button colored href="https://github.com/Leelsmuth/dark-mode" target='_blank'>Github</Button>
-              <Button colored href="https://dark-mode-five-mu.now.sh/" target='_blank'>LiveDemo</Button>
+              <Button colored href="https://github.com/Leelsmuth/dark-mode" target='_blank' style={{ fontWeight: 'bold' }}>Github</Button>
+              <Button colored href="https://dark-mode-five-mu.now.sh/" target='_blank' style={{ fontWeight: 'bold' }}>LiveDemo</Button>
             </CardActions>
           </Card>
 
@@ -53,8 +53,8 @@ class Project extends Component {
               Simple Redux project that lets you pick your top nine Favourite things in the World (at the moment).
         </CardText>
             <CardActions style={{ textAlign: 'center', padding: '16px', background: 'rgba(0,0,0,0.2)' }}>
-              <Button colored href="https://github.com/buildsprint-topnine/web-application" target='_blank'>Github</Button>
-              <Button colored href="https://web-application.my-top-nine.now.sh/" target='_blank'>LiveDemo</Button>
+              <Button colored href="https://github.com/buildsprint-topnine/web-application" target='_blank' style={{ fontWeight: 'bold' }}>Github</Button>
+              <Button colored href="https://web-application.my-top-nine.now.sh/" target='_blank' style={{ fontWeight: 'bold' }}>LiveDemo</Button>
             </CardActions>
           </Card>
 
@@ -71,8 +71,8 @@ class Project extends Component {
               A website that inspires you to live a healthier lifestyle and tracks your fitness goals
         </CardText>
             <CardActions style={{ textAlign: 'center', padding: '16px', background: 'rgba(0,0,0,0.2)' }}>
-              <Button colored href="https://github.com/LABS-EU3/wt_backend" target='_blank'>Github</Button>
-              <Button colored href="https://trackdrills.com/" target='_blank'>LiveDemo</Button>
+              <Button colored href="https://github.com/LABS-EU3/wt_backend" target='_blank' style={{ fontWeight: 'bold' }}>Github</Button>
+              <Button colored href="https://trackdrills.com/" target='_blank' style={{ fontWeight: 'bold' }}>LiveDemo</Button>
             </CardActions>
           </Card>
 
