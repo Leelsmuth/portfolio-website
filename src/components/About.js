@@ -29,7 +29,7 @@ function About() {
 
             <h3 className="color-3 social-link-text">
 
-              <button className="btn btn-danger"><a href="mailto:femianjorin@rocketmail.com">Hire Me</a></button>
+              <button className="btn btn-danger"><a href="mailto:femianjorin@rocketmail.com">Get in Touch</a></button>
             </h3>
 
             <ul className="about-link">
