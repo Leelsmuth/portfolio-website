@@ -276,4 +276,8 @@ p{
     width: 50%;
     border-radius: 50%;
   }
+
+  .mdl-card__supporting-text {
+    display: none;
+  }
 }
