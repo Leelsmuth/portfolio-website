@@ -268,7 +268,7 @@ p{
     }
 
   .mdl-shadow--16dp {
-    width: 50% !important;
+    width: 60% !important;
     margin-bottom: 40px !important;
   }
 
@@ -280,4 +280,8 @@ p{
   .mdl-card__supporting-text {
     display: none;
   }
+/* 
+  .mdl-card__title {
+    height: 300;
+  } */
 }

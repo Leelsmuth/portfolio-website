@@ -3,7 +3,7 @@ import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button }
 import githubFinder from '../images/githubfinder.gif';
 import darkMode from '../images/darkmode.JPG';
 import topNine from '../images/mytopnine.JPG';
-import trackDrills from '../images/logo.png';
+import trackDrills from '../images/trackdrills.JPG';
 
 class Project extends Component {
   constructor(props) {
