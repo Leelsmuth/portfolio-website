@@ -264,11 +264,12 @@ p{
     .projects-grid {
       display: flex;
       flex-direction: column;
-      margin: auto;
       height: 300px;
     }
 
   .mdl-shadow--16dp {
     width: 50% !important;
+    margin-bottom: 40px !important;
+
   }
 }
