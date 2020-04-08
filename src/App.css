@@ -270,6 +270,10 @@ p{
   .mdl-shadow--16dp {
     width: 50% !important;
     margin-bottom: 40px !important;
+  }
 
+  .shape {
+    width: 50%;
+    border-radius: 50%;
   }
 }
